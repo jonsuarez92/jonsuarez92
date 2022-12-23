@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 📫 How to reach me **Jon.suarez92@gmail.com**
+- 📫 How to reach me **suarezcoder12@gmail.com**
 
 - ⚡ Fun fact **I love playing Baseball**
 
