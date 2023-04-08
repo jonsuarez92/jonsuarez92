@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jonathan Suarez</h1>
-<h3 align="center">A passionate frontend developer from New York</h3>
+<h3 align="center">A passionate front-end developer from New York</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonsuarez92&label=Profile%20views&color=0e75b6&style=flat" alt="jonsuarez92" /> </p>
 
-- 🔭 I’m currently working on [Project Connect](https://project-connect-team.herokuapp.com/)
+- 🔭 I’m currently working on [react-native course]
 
 - 🌱 I’m currently learning **React.js**
 
